@@ -1,4 +1,6 @@
+import pytest
 from utils import arrs
+
 
 
 @pytest.fixture
